@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://tinder-ba251.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">811822270245</string>
+    <string name="google_api_key" translatable="false">AIzaSyBWvC6qqbP-wANujMz3b5BkYYcBKdnTeLk</string>
+    <string name="google_app_id" translatable="false">1:811822270245:android:71d5fb11d3d9ca9a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBWvC6qqbP-wANujMz3b5BkYYcBKdnTeLk</string>
+    <string name="google_storage_bucket" translatable="false">tinder-ba251.appspot.com</string>
+    <string name="project_id" translatable="false">tinder-ba251</string>
+</resources>
